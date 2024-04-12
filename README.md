@@ -17,8 +17,8 @@ The following figures depict the changes of the accuracy and the loss of our mod
 <br>
 Train versus validation accuracy over 100 epochs:
 <br>
-<img src="accuracies.JPG" alt="My Image" width="500" height="400">
+<img src="accuracies.png" alt="My Image" width="500" height="400">
 
 Train versus validation loss over 100 epochs:
 <br>
-<img src="losses.JPG" alt="My Image" width="500" height="400">
+<img src="losses.png" alt="My Image" width="500" height="400">
