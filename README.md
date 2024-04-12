@@ -1,5 +1,4 @@
 # DL-Midterm-Project
-Deep Learning Course Midterm Project
 
 This mini-project focuses on the refinement of the Residual Network (ResNet) architecture for image classification task using the CIFAR-10 dataset, with the constraint of limiting the model to no more than 5 million parameters.
 
