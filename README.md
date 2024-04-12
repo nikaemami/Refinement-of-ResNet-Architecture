@@ -14,6 +14,7 @@ In our ultimate model, we used a Wide ResNet architecture of decreased depth (le
 With our best model, we achieve a 93.7\% accuracy on the testing batch and a 82.5\% on the customized dataset after training for 100 epochs. 
 The following figures depict the changes of the accuracy and the loss of our model over the entire training process:
 <br>
+<br>
 Train versus validation accuracy over 100 epochs:
 <br>
 <img src="accuracies.JPG" alt="My Image" width="500" height="400">
